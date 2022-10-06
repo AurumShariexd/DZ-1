@@ -14,22 +14,23 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1640px;
   height: 100%;
 }
-
+.container {
+  max-width: 1640px;
+}
 .menu {
   display: flex;
   gap: 45px;
 }
 
-.menu>li{
-	font-size: 25px;
+.menu > li {
+  font-size: 25px;
 }
 
-.logo{
-	color: red;
-	font-size: 30px;
+.logo {
+  color: red;
+  font-size: 30px;
 }
 /* .header{
 	width: 100%;
