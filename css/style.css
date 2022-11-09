@@ -64,7 +64,9 @@
 }
 
 footer {
+margin-top: 60px;
   background-color: black;
+  height: 100px;
 }
 
 .title {
